@@ -24,8 +24,9 @@ Frontend Developer @ EITB
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
+![Lalith2002-lal's Stats](https://github-readme-stats.vercel.app/api?username=Lalith2002-lal&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![Lalith2002-lal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lalith2002-lal&theme=onedark&hide_border=true)
+![Lalith2002-lal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith2002-lal&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lalithkumaar2002?theme=dark&font=Chivo&ext=contest)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalith2002-lal&bg_color=0b0a0a&color=ffffff&line=75d968&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
