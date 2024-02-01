@@ -26,9 +26,7 @@ Frontend Developer @ EITB
 
 ![Lalith2002-lal's Stats](https://github-readme-stats.vercel.app/api?username=Lalith2002-lal&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 ![Lalith2002-lal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lalith2002-lal&theme=onedark&hide_border=true)
-
 ![Lalith2002-lal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith2002-lal&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-
 <br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lalithkumaar2002?theme=dark&font=Chivo&ext=contest)
 
