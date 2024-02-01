@@ -2,7 +2,7 @@
 
 Frontend Developer @ EITB
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [profile]([[https://hareesh.web.app/](https://www.linkedin.com/in/lalithkumaar2002/)])                                                 
+- 🔭 Here's my [profile](https://www.linkedin.com/in/lalithkumaar2002/)                                                 
 - 🌱 I’m currently learning React JS
 - 👯 I'm looking to learn a lot more about leading software technologies in the industry.
 - 🤔 I'm seeking a job involving React.js.
